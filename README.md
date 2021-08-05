@@ -2,6 +2,8 @@
 # CNN影像辨識
 ## 透過Keras實作鞋子辨識
 
+* Dataset:Nike * 70 , Adidas * 70
+
 * 預測鞋子是Adidas還是Nike的
 
 ![image](https://github.com/YuXiangWa/Image-Recognition/blob/master/Result.png)
